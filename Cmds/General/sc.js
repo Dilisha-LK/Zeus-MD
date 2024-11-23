@@ -21,7 +21,7 @@ module.exports = async (context) => {
 
   // Construct message caption
   const messageCaption = `
-   *Hello ,,,👋This is AKIO MD*
+   *Hello ,,,👋This is Zeus-MD*
  the best bot in the universe developed by DILISHA TECH🪀,,fork and give a star 🌟 to my repo 
   ╭────────────────
   │✨️ *Stars:* ${repoInfo.stars}    
