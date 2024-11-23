@@ -1,5 +1,5 @@
 const events = process.env.EVENTS || 'false';
-const botname = process.env.BOTNAME || 'Zeus-MD;
+const botname = process.env.BOTNAME || 'Zeus-MD';
 
 const Events = async (client, Fortu) => {
     const Myself = await client.decodeJid(client.user.id);
