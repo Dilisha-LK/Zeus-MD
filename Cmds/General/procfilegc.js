@@ -31,3 +31,5 @@ await client.sendMessage(m.chat, { image: { url: pp },
         }, {quoted: m })
 
 }
+
+
